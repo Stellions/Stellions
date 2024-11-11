@@ -26,8 +26,7 @@ let options = {
     /* --------------------------------------------------------------- */
     index: {
 
-        promptSheetPage: sheetPages.prompts,
-        numOfPrompts: 3,
+       
 
         staffSheetPage: sheetPages.staff,
         numOfStaff: 8,
