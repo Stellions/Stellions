@@ -27,7 +27,9 @@ body {
   /* ============================================================= */
   /* Backgrounds
   ================================================================ */
-  --cd-body-background-color:            linear-gradient(100deg, #332f2f, #191919);
+  --cd-body-background-color:           #grad {
+  background-image:  linear-gradient(100deg, #332f2f, #191919);
+}
   --cd-content-background-color:         #dcd9d6;
   --cd-faded-background-color:           #f8f8f8;
 
