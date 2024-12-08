@@ -22,13 +22,13 @@ body {
   /* Secondary Color
   ================================================================ */
   --cd-secondary-color:                  #939799;
-  --cd-secondary-text-color:             #888888;
+  --cd-secondary-text-color:             #252525;
 
   /* ============================================================= */
   /* Backgrounds
   ================================================================ */
   --cd-body-background-color:            #0b090a;
-  --cd-content-background-color:         #ffffff;
+  --cd-content-background-color:         #252525;
   --cd-faded-background-color:           #f8f8f8;
 
   /* Background Extras */
